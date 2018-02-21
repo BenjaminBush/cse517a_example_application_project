@@ -8,5 +8,4 @@ It is good practice to not upload datasets to your repositories both because the
 
 Source
 ------
-
-In a README describe where you got the dataset as well as where to download the files needed and how you set up the folders in the Dataset folder so the TAs can easily run your code if needed.
+https://www.kaggle.com/tmdb/tmdb-movie-metadata/data
