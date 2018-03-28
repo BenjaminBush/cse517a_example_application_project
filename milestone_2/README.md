@@ -1,26 +1,8 @@
 Milestone 2
 ===========
 
-Folders
--------
+Documentation for milestone 2 located on the wiki.
 
-Each milestone folder should include the following
+Task 4: https://github.com/BenjaminBush/cse517a_project/wiki/SVM
 
-* All code you wrote/used
-* A README file
-
-They should not include
-
-* Datasets
-* Large packages
-
-README
-------
-
-The README file should include
-
-* Description of what your team did
-* Methods used to accomplish each part
-* Potential difficulties faced
-* Resources used
-* Description of how to run the code in the folder
+Task 5: https://github.com/BenjaminBush/cse517a_project/wiki/SVM
